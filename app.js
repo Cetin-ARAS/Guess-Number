@@ -45,7 +45,6 @@ if(life.innerText > 1){
              container.style.background ="#ffff00";
              picture.style.background ="#ffff00";
             
-
         }
     }
     else {

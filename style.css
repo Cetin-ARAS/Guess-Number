@@ -70,8 +70,7 @@ color: rgb(255, 130, 47);}
      height: 8vh;
      border-radius: 3rem ;
      cursor: pointer;
-     min-width: max-content;}     
-         
+     min-width: max-content;}              
 #reset:hover{
     color: blue;
     background-color: brown;
