@@ -1,0 +1,78 @@
+
+*{  margin: 0;
+    padding: 0%;
+    background-color: antiquewhite;
+}
+
+.Başlık{
+    margin: 3rem;
+    display: flex;
+    justify-content: center;
+    color:red;
+}
+
+.plc{
+    display: flex;
+    justify-content: center;
+}
+
+#input{
+    background-color: white;
+    width: 30vw;
+    height: 4vh;
+    margin: 0.1rem;
+    border-radius: 0.5rem;
+    border-style: none;
+    padding-left: 1rem;
+
+
+}
+ #chk{
+    width: 8vw; 
+    height: 4vh;
+    background-color: rgb(138, 22, 233);
+    color: aliceblue;
+    border-radius: 0.5rem;  
+    cursor: pointer;  
+    margin: 0.1rem;  
+    min-width: max-content;
+ } 
+ #chk:hover{
+     color: yellow;
+     background-color: red;
+ }  
+ #picture{
+     display: flex;
+     justify-content: center;
+     margin: 3rem;     
+ }
+.remaining{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#life{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+color: rgb(255, 130, 47);}
+    
+#won{
+     display: flex;
+     justify-content: center;
+     text-align: center;}
+#reset{
+    color: red;
+     margin-left: 45%;
+     margin-top: 2rem;
+     background-color: greenyellow;
+     width: 10vw;
+     height: 8vh;
+     border-radius: 3rem ;
+     cursor: pointer;
+     min-width: max-content;}     
+         
+#reset:hover{
+    color: blue;
+    background-color: brown;
+}
