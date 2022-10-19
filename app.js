@@ -11,7 +11,6 @@ let sandwatch = document.querySelector('#sandwatch')
 let container = document.querySelector('.container')
 let picture = document.querySelector('#picture')
 input.focus();
-
 console.log(random)
 console.log(life.innerText)
 const guess = () =>  {
